@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flashcard App
 
 This is a simple console-based flashcard app in Python that allows users to:
@@ -27,3 +28,6 @@ python main.py
 
 - Add a GUI using Tkinter
 - Export performance reports using Pandas
+=======
+# Flashcard_app
+>>>>>>> b7722181cf4b093217d0c97ed806ea60120dc67f
